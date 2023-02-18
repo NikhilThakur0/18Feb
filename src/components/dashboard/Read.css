@@ -1,0 +1,13 @@
+.hiddenRow
+{
+    padding: 0 !important;
+}
+.modal-btn {
+    opacity: 1;
+    width: 200px;
+    height: fit-content;
+}
+.content-table thead tr{
+    background-color:#9bd4e4;
+    color:white;
+}
